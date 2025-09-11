@@ -177,11 +177,10 @@ First, create the environment variables file `.env` in the client folder. The `.
 
 ## For Support, Contact:
 
-### Contact with team lead
+###  Team lead
 
 - Name: Rishi
-- Email: rishiagrahari36@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rishi-agrahari-0b1965274/
+
 
 ### Collaborator Involves
 
