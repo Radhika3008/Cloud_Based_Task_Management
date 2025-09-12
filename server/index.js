@@ -23,7 +23,7 @@ const corsConfig = {
   origin: [
     "http://localhost:3000",
     "http://localhost:3011",
-    "https://cloudtask-engine.onrender.com",
+    
     "cloud-based-task-management-fronten.vercel.app",
     // "https://cloud-task-manager-frontend.vercel.app",
     // "https://cloud-task-manager-backend-y3hm.onrender.com",
