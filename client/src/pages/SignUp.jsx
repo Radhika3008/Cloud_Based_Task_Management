@@ -18,7 +18,7 @@ const SignUp = () => {
     register,
     handleSubmit,
     formState: { errors },
-  } = useForm();
+  } = useForm();    
   const [addNewUser, { isLoading }] = useRegisterMutation();
   const location = useLocation();
 
